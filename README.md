@@ -93,7 +93,9 @@ I authored a research paper titled **"Integrating Physics with Machine Learning 
 - 📷 Trajectory visualizations included in the paper
 
 📥 **Read Full Paper**: [Download PDF](https://orcid.org/0009-0002-7926-0544)  
+
 📌 **ORCID**: [0009-0002-7926-0544](https://orcid.org/0009-0002-7926-0544)
+
 🚀 **Read as PDF**:[Click Here](https://drive.google.com/file/d/1FEEA8XJo1sxMMbx21QGEs9v1lK2tS5M_/view?usp=drive_link)
 
 ----
