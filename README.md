@@ -113,7 +113,7 @@ streamlit run app.py
 
 ## 📬 Contact
 Questions, feedback, or collaboration ideas?
-📧 Email: khushisimgh8317@gmail.com
+📧 Email: khushisingh8317@gmail.com
 
 ---
 
