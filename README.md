@@ -120,7 +120,7 @@ Questions, feedback, or collaboration ideas?
 ## 📜 License
 This project is licensed under the **GNU AGPL v3.0** License.  
 Reproduction, redistribution, or rebranding is not allowed without permission.  
-© 2025 Khushiee (Walking Human)
+© 2025 Khushi singh
 
 
 
